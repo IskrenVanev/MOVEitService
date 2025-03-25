@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\bin\Debug\MOVEit.Service.exe.config
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\bin\Debug\MOVEit.Service.exe
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\bin\Debug\MOVEit.Service.pdb
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\obj\Debug\MOVEit.Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\obj\Debug\MOVEit.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\obj\Debug\MOVEit.Service.exe
+C:\Users\user\Desktop\ProgressProjectService\MOVEitService\MOVEitService\obj\Debug\MOVEit.Service.pdb

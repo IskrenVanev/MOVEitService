@@ -1,0 +1,17 @@
+﻿<Window x:Class="MOVEit.UI.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MOVEit.UI"
+        mc:Ignorable="d"
+        Title="Login" Height="183" Width="232" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBlock Margin="10,10,10,0" TextWrapping="Wrap" Text="Username:" VerticalAlignment="Top"/>
+        <TextBox x:Name="usernameTb" Margin="10,31,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBlock Margin="10,60,10,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="passwordTb" Margin="10,81,10,0" VerticalAlignment="Top"/>
+        <Button Content="Log in" HorizontalAlignment="Right" Margin="0,112,10,0" VerticalAlignment="Top" Width="78" Click="LoginButton_Click"/>
+
+    </Grid>
+</Window>
