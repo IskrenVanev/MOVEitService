@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MOVEit.UI"
         mc:Ignorable="d"
-        Title="MOVEit Settings" Height="175" Width="253">
+        Title="MOVEit Settings" Height="175" Width="253" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid>
         <TextBlock Margin="10,10,10,0" TextWrapping="Wrap" Text="Directory:" VerticalAlignment="Top"/>
         <TextBox x:Name="syncDirectoryTb" Margin="10,31,60,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>

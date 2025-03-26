@@ -20,12 +20,16 @@ namespace MOVEit.UI
     /// <summary>
     /// Interaction logic for Login.xaml
     /// </summary>
-    public partial class Login : Window, IDisposable
+    public partial class Login : Window
     {
         private readonly MOVEitContext _context;
         private readonly AuthService _authService;
         private readonly SyncService _syncService;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Login"/> class.
+        /// Checks user authentication status and starts the synchronization service if logged in.
+        /// </summary>
         public Login()
         {
             _context = new MOVEitContext();
@@ -36,7 +40,11 @@ namespace MOVEit.UI
             InitializeComponent();
 
         }
-
+        /// <summary>
+        /// Checks if a user is already logged in and handles token expiration.
+        /// If the token is expired or close to expiration, it refreshes the token.
+        /// If authenticated, it opens the settings window and starts the synchronization service.
+        /// </summary>
         private void CheckLogin()
         {
             var user = _context.Users.FirstOrDefault();
@@ -72,23 +80,20 @@ namespace MOVEit.UI
                 await s.GetFolderContents(user.Token, 236041452);
             }) });
 
-            
-
             Settings settings = new Settings();
             settings.Show();
 
-
-            // Start the SyncService after login check
             _syncService.Start();
 
             Close();
         }
-
-        public void Dispose()
-        {
-            _context.Dispose();
-        }
-
+        /// <summary>
+        /// Handles the login button click event.
+        /// Authenticates the user using the provided credentials.
+        /// If successful, stores the authentication token and opens the settings window.
+        /// </summary>
+        /// <param name="sender">The object that triggered the event.</param>
+        /// <param name="e">Event arguments.</param>
         private async void LoginButton_Click(object sender, RoutedEventArgs e)
         {
             try

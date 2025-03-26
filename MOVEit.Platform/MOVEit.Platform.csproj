@@ -93,7 +93,6 @@
     <Compile Include="Extensions\EnumExtensions.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\FolderFilesResponseDTO.cs" />
-    <Compile Include="Models\FolderItemDTO.cs" />
     <Compile Include="Models\GrantType.cs" />
     <Compile Include="Models\UserResponseDTO.cs" />
     <Compile Include="Models\TokenResponseDTO.cs" />
