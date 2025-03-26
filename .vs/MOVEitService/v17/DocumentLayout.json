@@ -7,88 +7,40 @@
       "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\services\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MOVEit.UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MOVEit.Platform||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\models\\folderfilesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\models\\folderfilesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveitservice\\service.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|solutionrelative:moveitservice\\service.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveitservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|solutionrelative:moveitservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveitservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|solutionrelative:moveitservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveitservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E95AD455-2DE1-4B42-95C8-AFE628976A96}|MOVEitService\\MOVEit.Service.csproj|solutionrelative:moveitservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\moveitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\moveitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\models\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\models\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\models\\granttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\models\\granttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\extensions\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\extensions\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|solutionrelative:moveit.platform\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.ui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BBD6E1B7-FECB-4934-A079-CE24C2C42F01}|MOVEit.UI\\MOVEit.UI.csproj|solutionrelative:moveit.ui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{11235E05-482E-4924-B72E-420E7B5F6BCD}|MOVEit.Platform\\MOVEit.Platform.csproj|c:\\users\\user\\desktop\\progressprojectservice\\moveitservice\\moveit.platform\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,110 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\App.config",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\App.config",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\App.config",
-              "RelativeToolTip": "MOVEit.Platform\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T22:12:13.298Z",
+              "Title": "MOVEit.Platform",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\MOVEit.Platform.csproj",
+              "RelativeDocumentMoniker": "MOVEit.Platform\\MOVEit.Platform.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\MOVEit.Platform.csproj",
+              "RelativeToolTip": "MOVEit.Platform\\MOVEit.Platform.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T23:07:13.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\App.config",
-              "RelativeDocumentMoniker": "MOVEitService\\App.config",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\App.config",
-              "RelativeToolTip": "MOVEitService\\App.config",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T21:53:06.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.config",
-              "RelativeDocumentMoniker": "MOVEit.UI\\App.config",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.config",
-              "RelativeToolTip": "MOVEit.UI\\App.config",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACsAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-26T21:53:04.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MOVEitContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\MOVEitContext.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\MOVEitContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\MOVEitContext.cs",
-              "RelativeToolTip": "MOVEit.Platform\\MOVEitContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:46:16.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\UserResponseDTO.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Models\\UserResponseDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\UserResponseDTO.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Models\\UserResponseDTO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:44:32.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TokenResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\TokenResponseDTO.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Models\\TokenResponseDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\TokenResponseDTO.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Models\\TokenResponseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:44:14.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GrantType.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\GrantType.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Models\\GrantType.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\GrantType.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Models\\GrantType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:44:11.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MOVEit.UI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.xaml.cs",
-              "RelativeToolTip": "MOVEit.UI\\App.xaml.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:42:32.748Z",
+              "DocumentIndex": 1,
+              "Title": "MOVEit.UI",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\MOVEit.UI.csproj",
+              "RelativeDocumentMoniker": "MOVEit.UI\\MOVEit.UI.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\MOVEit.UI.csproj",
+              "RelativeToolTip": "MOVEit.UI\\MOVEit.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T23:06:54.533Z",
               "EditorCaption": ""
             },
             {
@@ -212,175 +84,87 @@
               "RelativeDocumentMoniker": "MOVEit.Platform\\Services\\SyncService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Services\\SyncService.cs",
               "RelativeToolTip": "MOVEit.Platform\\Services\\SyncService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:42:22.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Services\\FileService.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Services\\FileService.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Services\\FileService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDMAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:50.961Z",
+              "WhenOpened": "2025-03-26T23:06:03.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FolderFilesResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\FolderFilesResponseDTO.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Models\\FolderFilesResponseDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Models\\FolderFilesResponseDTO.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Models\\FolderFilesResponseDTO.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBgAAAAnAAAA",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MOVEit.UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.xaml.cs",
+              "RelativeToolTip": "MOVEit.UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:36.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:26.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Services\\AuthService.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Services\\AuthService.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAQwDwAAACIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:18.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EnumExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Extensions\\EnumExtensions.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Extensions\\EnumExtensions.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Extensions\\EnumExtensions.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Extensions\\EnumExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:07.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "MOVEit.Platform\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\Entities\\User.cs",
-              "RelativeToolTip": "MOVEit.Platform\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:41:02.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Service.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.Designer.cs",
-              "RelativeDocumentMoniker": "MOVEitService\\Service.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.Designer.cs",
-              "RelativeToolTip": "MOVEitService\\Service.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:40:33.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Service.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.cs",
-              "RelativeDocumentMoniker": "MOVEitService\\Service.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.cs [Design]",
-              "RelativeToolTip": "MOVEitService\\Service.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:40:30.442Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Login.xaml",
-              "RelativeDocumentMoniker": "MOVEit.UI\\Login.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Login.xaml",
-              "RelativeToolTip": "MOVEit.UI\\Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-26T21:39:12.807Z",
+              "WhenOpened": "2025-03-26T22:45:17.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "MOVEit.UI\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Login.xaml.cs",
-              "RelativeToolTip": "MOVEit.UI\\Login.xaml.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAqwHsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:39:11.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Settings.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Settings.xaml",
-              "RelativeDocumentMoniker": "MOVEit.UI\\Settings.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Settings.xaml",
-              "RelativeToolTip": "MOVEit.UI\\Settings.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-26T21:39:02.67Z",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.config",
+              "RelativeDocumentMoniker": "MOVEit.UI\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\App.config",
+              "RelativeToolTip": "MOVEit.UI\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T22:44:22.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\packages.config",
+              "RelativeDocumentMoniker": "MOVEit.UI\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\packages.config",
+              "RelativeToolTip": "MOVEit.UI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T22:44:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\packages.config",
+              "RelativeDocumentMoniker": "MOVEit.Platform\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\packages.config",
+              "RelativeToolTip": "MOVEit.Platform\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T22:44:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\App.config",
+              "RelativeDocumentMoniker": "MOVEit.Platform\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.Platform\\App.config",
+              "RelativeToolTip": "MOVEit.Platform\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T22:44:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Settings.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Settings.xaml.cs",
               "RelativeDocumentMoniker": "MOVEit.UI\\Settings.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEit.UI\\Settings.xaml.cs",
               "RelativeToolTip": "MOVEit.UI\\Settings.xaml.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwEUAAAARAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwE4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:38:55.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.cs",
-              "RelativeDocumentMoniker": "MOVEitService\\Service.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ProgressProjectService\\MOVEitService\\MOVEitService\\Service.cs",
-              "RelativeToolTip": "MOVEitService\\Service.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T21:33:42.024Z",
+              "WhenOpened": "2025-03-26T22:32:51.12Z",
               "EditorCaption": ""
             }
           ]
