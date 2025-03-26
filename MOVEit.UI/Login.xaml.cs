@@ -24,11 +24,13 @@ namespace MOVEit.UI
     {
         private readonly MOVEitContext _context;
         private readonly AuthService _authService;
+        private readonly SyncService _syncService;
 
         public Login()
         {
             _context = new MOVEitContext();
             _authService = new AuthService();
+            _syncService = new SyncService();
             CheckLogin();
 
             InitializeComponent();
@@ -74,6 +76,10 @@ namespace MOVEit.UI
 
             Settings settings = new Settings();
             settings.Show();
+
+
+            // Start the SyncService after login check
+            _syncService.Start();
 
             Close();
         }

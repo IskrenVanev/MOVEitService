@@ -37,9 +37,10 @@ namespace MOVEit.Platform.Services
 
         public void Start()
         {
+            IsRunning = true;
             _loginTimer = new Timer(LoginTimer_Tick, null, 0, 30000);
 
-            IsRunning = true;
+            
         }
 
         public void Stop()
@@ -81,15 +82,16 @@ namespace MOVEit.Platform.Services
                 NotifyFilter = NotifyFilters.FileName | NotifyFilters.LastWrite | NotifyFilters.Size
             };
 
-            _directoryWatcher.Changed += DirectoryWatcher_Changed;
-           // _directoryWatcher.Changed += async (sender, e) => await DirectoryWatcher_Changed(sender, e);
+            //_directoryWatcher.Changed += DirectoryWatcher_Changed;
+            _directoryWatcher.Created += async (sender, e) => await DirectoryWatcher_Changed(sender, e);
             _directoryWatcher.EnableRaisingEvents = true;
         }
 
-        public async void DirectoryWatcher_Changed(object sender, FileSystemEventArgs e)
+        public async Task<bool> DirectoryWatcher_Changed(object sender, FileSystemEventArgs e)
         {
             if (!File.GetAttributes(e.FullPath).HasFlag(FileAttributes.Directory))
             {
+                
                 if (e.ChangeType == WatcherChangeTypes.Created)
                 {
                     // upload file 
@@ -98,17 +100,19 @@ namespace MOVEit.Platform.Services
                         CheckAuth();
                         var user = _context.Users.FirstOrDefault();
                         string token = user.Token;
-                        string folderId = user.SyncDirectory;
-                        var client = new RestClient($"https://testserver.moveitcloud.com/api/v1/{folderId}/files");
-                        RestRequest req = new RestRequest();
-
+                        var defaultFolder = await _fileService.GetUserDefaultFolderIdAsync(token);
+                        var client = new RestClient($"https://testserver.moveitcloud.com/api/v1/folders/{defaultFolder}/files");
+                        RestRequest req = new RestRequest($"https://testserver.moveitcloud.com/api/v1/folders/{defaultFolder}/files", Method.Post);
+                                                
                         req.AddHeader("Authorization", $"Bearer {token}");
+                        //req.AddHeader("Content-Type", "multipart/form-data");
                         req.AddFile("file", e.FullPath);
-                        var response = await client.GetAsync(req);
+
+                        var response = await client.ExecuteAsync(req);
 
                         if (!response.IsSuccessStatusCode)
                         {
-                            return;
+                            return false;
                         }
                     }
                     catch (Exception ex)
@@ -118,7 +122,7 @@ namespace MOVEit.Platform.Services
                     }
                 }
             }
-            return;
+            return true;
         }
 
         private void DetachWatcher()
